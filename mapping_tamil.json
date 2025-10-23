@@ -1,0 +1,21 @@
+{
+  "a": {"char": "அ", "stage": 1},
+  "aa": {"char": "ஆ", "stage": 2},
+  "i": {"char": "இ", "stage": 1},
+  "ii": {"char": "ஈ", "stage": 2},
+  "u": {"char": "உ", "stage": 1},
+  "uu": {"char": "ஊ", "stage": 2},
+  "e": {"char": "எ", "stage": 1},
+  "ee": {"char": "ஏ", "stage": 2},
+  "o": {"char": "ஒ", "stage": 1},
+  "oo": {"char": "ஓ", "stage": 2},
+  "ka": {"char": "க", "stage": 1},
+  "kaa": {"char": "கா", "stage": 2},
+  "ki": {"char": "கி", "stage": 2},
+  "kii": {"char": "கீ", "stage": 3},
+  "ku": {"char": "கு", "stage": 2},
+  "kuu": {"char": "கூ", "stage": 3},
+  "kai": {"char": "கை", "stage": 3},
+  "ko": {"char": "கொ", "stage": 2},
+  "koo": {"char": "கோ", "stage": 3}
+}
